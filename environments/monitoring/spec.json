@@ -1,0 +1,11 @@
+{
+  "apiVersion": "tanka.dev/v1alpha1",
+  "kind": "Environment",
+  "metadata": {
+    "name": "monitoring"
+  },
+  "spec": {
+    "apiServer": "127.0.0.1",
+    "namespace": "monitoring"
+  }
+}
